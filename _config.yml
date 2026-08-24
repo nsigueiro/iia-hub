@@ -1,0 +1,13 @@
+title: "IIA Hub"
+description: "Página interna de la carrera Ingeniería en Inteligencia Artificial"
+baseurl: ""   # si publicás en usuario.github.io/nombre-repo, poné aquí "/nombre-repo"
+url: ""
+
+markdown: kramdown
+plugins: []
+
+# Se excluyen del build de Jekyll
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
