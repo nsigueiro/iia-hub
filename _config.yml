@@ -1,6 +1,6 @@
 title: "IIA Hub"
 description: "Página interna de la carrera Ingeniería en Inteligencia Artificial"
-baseurl: "/iia-hub"   # si publicás en usuario.github.io/nombre-repo, poné aquí "/nombre-repo"
+baseurl: ""   # si publicás en usuario.github.io/nombre-repo, poné aquí "/nombre-repo"
 url: ""
 
 markdown: kramdown
